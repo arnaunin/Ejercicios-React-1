@@ -4,7 +4,11 @@ import './App.css'
 function App() {
 
   return (
-    <Router />
+    <>
+      <Router />
+      <h1>Saludos desde REACT</h1>
+    </>
+    
   )
 }
 
