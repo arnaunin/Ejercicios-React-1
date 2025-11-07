@@ -6,7 +6,6 @@ function App() {
   return (
     <>
       <Router />
-      <h1>Saludos desde REACT</h1>
     </>
     
   )
