@@ -1,0 +1,9 @@
+export { default as Ejercicio1 } from "./Ejercicio1";
+export { default as Ejercicio2 } from "./Ejercicio2";
+export { default as Ejercicio3 } from "./Ejercicio3";
+export { default as Ejercicio4 } from "./Ejercicio4";
+export { default as Ejercicio5 } from "./Ejercicio5";
+export { default as Ejercicio6 } from "./Ejercicio6";
+export { default as Ejercicio7 } from "./Ejercicio7";
+export { default as Ejercicio8 } from "./Ejercicio8";
+export { default as Ejercicio9 } from "./Ejercicio9";
