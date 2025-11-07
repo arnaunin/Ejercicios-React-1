@@ -8,7 +8,7 @@ const Router = () => {
   const nombresEjercicios = Object.keys(Ejercicios)
 
   return (
-    <BrowserRouter>
+    <BrowserRouter basename="/Ejercicios-React-1">
       <Routes>
         <Route path='/' element={<Home ejercicios={nombresEjercicios} />}/>
         {nombresEjercicios.map((nombre) => {
