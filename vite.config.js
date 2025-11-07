@@ -5,4 +5,9 @@ import react from '@vitejs/plugin-react'
 export default defineConfig({
   plugins: [react()],
   base: '/Ejercicios-React-1/',
+  server: {
+    watch: {
+      usePolling: true, // Usa polling para detectar cambios
+    }
+  }
 })
